@@ -1,0 +1,227 @@
+label_0 Hey
+label_0 hai
+label_0 hi!!!
+label_0 hiiiiiii
+label_0 hello
+label_0 whatsapp
+label_0 wassuuupp
+label_0 hey there
+label_0 How's it going?
+label_0 How are you doing?
+label_0 How are you?
+label_0 what's up?
+label_0 What's going on?
+label_0 how do you do?
+label_0 How's everything?
+label_0 How are things?
+label_0 How's life?
+label_0 How's your day?
+label_0 How's you day going?
+label_0 How's your day going on?
+label_0 Howdy
+label_0 All fine?
+label_0 Are you fine?
+label_0 Is everything alright?
+label_0 Are you alright?
+label_0 Are you okay?
+label_0 How are you feeling?
+label_0 How are you today?
+label_0 How do you do?
+label_0 How do you feel?
+label_0 How have you been?
+label_0 Hope your day is going well
+label_0 I'm fine and you?
+label_0 How has your day been?
+label_0 How are you doing this morning?
+label_0 Hi, nice to meet you
+label_0 Hi, It's a pleasure to meet to you
+label_0 Nothing much 
+label_1 Tell me some jokes
+label_1 Tell me a joke
+label_1 Start with a joke
+label_1 Are you funny?
+label_1 U think u are funny?
+label_1 Say something funny?
+label_1 Do you joke around?
+label_1 You think you are funnier?
+label_1 Show me how funny you are?
+label_1 Funny you say?
+label_1 keep it interesting
+label_1 Spice-it up a bit
+label_1 lets have some fun
+label_1 Try something funny
+label_1 Why so serious?
+label_1 You are boring
+label_1 you are boring
+label_1 you are so boring
+label_1 how boring you are
+label_1 you are really boring
+label_1 you are incredibly boring
+label_1 you are boring me
+label_1 you are very boring
+label_1 can u tell any jokes
+label_1 How fun are you
+label_1 Joke it away
+label_1 U think u are funny
+label_1 How funny u think u are
+label_1 Do u think u are funny
+label_1 You think you are funny
+label_1 Be more funny
+label_1 joke parayamo?
+label_1 joke solle
+label_1 joke chepu
+label_1 joke bolo
+label_2 Suggest me a good song
+label_2 I would like to listen to some music
+label_2 Tell me some song that i can listen to
+label_2 would love some music
+label_2 Write a song for me
+label_2 Write some song for me
+label_2 Write a song
+label_2 Write some good music
+label_2 Write me a song
+label_2 a song would be nice
+label_2 Write me a nice song
+label_2 Write me a good track
+label_2 suggest me a track i can listen to
+label_2 Write some song
+label_2 Write a track for me
+label_2 Write some music track
+label_2 give me a song to listen to
+label_2 I'm bored, sing a song for me
+label_2 its' boring, suggest me a song
+label_2 could you write some music piece
+label_2 could you play some song for me
+label_2 sing a song for me
+label_2 sing me a song
+label_2 sing a good song
+label_2 sing some song
+label_2 Sing any song
+label_2 You sing?
+label_2 You know any songs
+label_3 Any Fun filled fact?
+label_3 Any mind boggling fact?
+label_3 Any interesting fact?
+label_3 Any non-technical fact?
+label_3 Any Fun facts that will blow my mind?
+label_3 Any interesting facts that will blow my mind?
+label_3 Can you tell me some fun facts?
+label_3 Can you tell me some interesting facts?
+label_3 Can you tell me some non-technical facts?
+label_3 Can I know some fun facts?
+label_3 Can I know some interesting facts?
+label_3 Clabel_3 an I know some non-technical facts?
+label_3 Any non-technical fun facts?
+label_3 May I know some interesting facts?
+label_3 Is it possible for you to tell me some interesting facts?
+label_3 How about non-technical fun facts?
+label_3 Any fun-filled and interesting fact?
+label_3 Any fun fact that's hard to believe?
+label_3 Any interesting fact that's hard to believe?
+label_3 Tell me an interesting fact
+label_3 Tell me a fun related fact
+label_3 Tell me some crazy facts
+label_3 Any crazy facts?
+label_3 Can you tell me some crazy facts?
+label_3 Mention some fun facts
+label_3 Any cool, spark filled facts?
+label_3 Mention some random, but interesting facts
+label_3 Will u please tell me an interesting fact?
+label_4 Where are you from?
+label_4 Got a girlfriend
+label_4 Got a boyfriend
+label_4 Who is your boyfriend
+label_4 Who is your girl friend
+label_4 Who is your girlfriend
+label_4 Name of your girl friend
+label_4 who is your girl friend?
+label_4 where is your family?
+label_4 Wanna go out
+label_4 What is your favourite (anything)
+label_4 where did you born?
+label_4 You beautiful?
+label_4 let's get married
+label_4 would you like to marry me
+label_4 marry me
+label_4 i love you marry me
+label_4 marry me please
+label_4 we should marry
+label_4 i want to marry you
+label_4 you are my wife
+label_4 be my husband
+label_4 What's your number?
+label_4 What is your location?
+label_4 Where are you from?
+label_4 What can you eat?
+label_4 What is your gender?
+label_4 Do you have any siblings?
+label_4 Who is your boss?
+label_4 What is your age?
+label_4 Are you a robot?
+label_4 If you could eat food, what would you eat
+label_4 I like wine, Do you?
+label_4 Do you like wine?
+label_4 Do you drink wine?
+label_4 Do you love me?
+label_4 Can I get your number?
+label_4 Where do you stay?
+label_4 What is your favourite color?
+label_4 What kind of music do you prefer?
+label_4 May I know your name?
+label_4 What's your name?
+label_4 What are your hobbies?
+label_4 May I know about your likes and dislikes?
+label_5 I'm bored
+label_5 I'm dieing of boredom
+label_5 Its so boring here
+label_5 the day is so dull
+label_5 Its so dull today
+label_5 Im done for the day
+label_5 Boring.....
+label_5 So damn boring
+label_5 Nothing interesting to do today
+label_5 Time is moving so slow today
+label_5 I wanna go home
+label_5 Boring life
+label_5 Im bored to death
+label_5 Im frustrated
+label_5 Feeling low
+label_5 Im feeling sad
+label_5 I'm sad
+label_5 Im in a bad mood
+label_5 Life is so boring 
+label_5 Work is boring 
+label_5 Bored to death
+label_5 Its a slow day
+label_5 Its a boring day
+label_6 What can i ask
+label_6 What do you understand
+label_6 tell me about your personality
+label_6 why are you here
+label_6 talk about yourself
+label_6 tell me some stuff about you
+label_6 talk some stuff about yourself
+label_6 i want to know you better
+label_6 i want to know more about you
+label_6 who are you
+label_6 tell me about yourself
+label_6 tell me about you
+label_6 about yourself
+label_6 describe yourself
+label_6 introduce yourself
+label_6 say about you
+label_6 what are you
+label_6 define yourself
+label_6 what is your personality
+label_6 all about you
+label_6 How do i use Zia
+label_6 What can you do
+label_6 What can you do for me
+label_6 How can you help me
+label_6 What do you do
+label_6 What are some questions i can ask zia
+label_6 What could you do for me
+label_6 how can you help
+label_6 What kind of questions can i ask
+label_6 What can zia do?
+label_6 What else can i ask u?                                 
