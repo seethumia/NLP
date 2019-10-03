@@ -141,7 +141,7 @@ class chit_chat:
                
             elif res == 2 :
                 songs = ('Thats why we seize the moment, and try to freeze it and own itSqueeze it and hold it cause we consider these minutes golden - Eminem - Sing for the moment \nhttps://www.youtube.com/watch?v=D4hAVemuQXY','"I have died everyday, waiting for you Darling dont be afraid, I have loved you for a thousand years Ill love you for a thousand more"- Christina Perri, A thousand years \nhttps://www.youtube.com/watch?v=rtOvBOTyX00' , 'Let it go, let it go, cant hold back anymore..... song link https://youtu.be/L0MK7qz13bU','Life is worth living\nLife is worth living, so live another day \nThe meaning of forgiveness\nPeople make mistake, doesnt mean\nyou have to give in\nLife is worth living again\nSong by : Justin Bieber\nLink : https://youtu.be/e934LuQlAeg ')
-                num = random.randrange(0,5)
+                num = random.randrange(0,3)
                     
                 return songs[num]
             
