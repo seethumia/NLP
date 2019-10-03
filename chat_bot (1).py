@@ -126,7 +126,7 @@ class chit_chat:
                     jokes = ('A robber robs a bank, gets all the money and is about to leave, but before that he asks a customer who’s lying on the floor, “Have you seen me rob this bank?”-“Yes, sir,” says the customer and gets promptly shot.-“Have you seen me rob this bank?”the robber asks another customer.-“Absolutely not, sir, but my wife here saw everything!”'
                     ,'Dentist: “This will hurt a little.”\nPatient: “OK.”\nDentist: “I’ve been having an affair with your wife for a while now.”','Why can’t a bike stand on its own? It’s two tired.','A nurse told me "Sorry for the wait!" I replied "Its alright Im patient."Son: Dad, what is an idiot?Dad: An idiot is a person who tries to explain his ideas in such a strange and long way that another person who is listening to him cant understand him. Do you understand me?Son: No.')
                     
-                    num = random.randrange(0,4)
+                    num = random.randrange(0,3)
                     
                     return jokes[num]
                     
